@@ -17,13 +17,13 @@ Continue learning with this selection of AI & Data Cloud Resources for Salesforc
 - [YouTube: Create Trusted Generative AI Apps with Prompt Builder](https://www.youtube.com/watch?v=yIESPYax3iE)
 - [YouTube: Get Started with Prompt Templates for Developers](https://www.youtube.com/watch?v=UuPWXstNjgs)
 
-## Einstein Copilot
+## Agentforce
 
-- [Trail: Get Started with Einstein Copilot](https://trailhead.salesforce.com/content/learn/trails/build-ai-assistants-with-einstein-copilot)
-- [YouTube: Learn Best Practices for Developing Einstein Copilot Actions](https://www.youtube.com/watch?v=D8WnZEhpK0k)
-- [YouTube: Get Started with Einstein Copilot Actions for Developers](https://www.youtube.com/watch?v=PQJlqU2LHPo)
-- [Blog: Build Custom Copilot Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)
-- [Blog: Get Started with Einstein Copilot Custom Actions](https://admin.salesforce.com/blog/2024/einstein-copilot-actions-best-practices-spring-24)
+- [Quick Start: Build your first agent with Agentforce](https://trailhead.salesforce.com/content/learn/modules/quick-start-build-your-first-agent-with-agentforce)
+- [YouTube: Learn Best Practices for Developing Agentforce Actions](https://www.youtube.com/watch?v=D8WnZEhpK0k)
+- [YouTube: Get Started with Agent Actions for Developers](https://www.youtube.com/watch?v=PQJlqU2LHPo)
+- [Blog: Build Custom Agent Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)
+- [Blog: Get Started with Agent Custom Actions](https://admin.salesforce.com/blog/2024/einstein-copilot-actions-best-practices-spring-24)
 
 ## Other
 
